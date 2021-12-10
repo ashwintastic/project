@@ -1,4 +1,10 @@
 #:wq
+
+
+class Test;end
+
+class Test2;end
+
 class ApplicationController < ActionController::Base
   # Prevent CSRF attacks by raising an exception.
   # For APIs, you may want to use :null_session instead.
