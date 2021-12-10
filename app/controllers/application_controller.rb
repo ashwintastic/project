@@ -4,6 +4,7 @@
 class Test;end
 
 class Test2;end
+class Test12;end
 
 class ApplicationController < ActionController::Base
   # Prevent CSRF attacks by raising an exception.
